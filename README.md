@@ -1,0 +1,1 @@
+# AWeirdLanguage.Translate
